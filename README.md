@@ -2,13 +2,13 @@
 A front for all my personal projects
 
 ## Front-end
- ### Fundamentals
+### Fundamentals
 
-[HTML](https://github.com/cassas00/html-basics)
+[HTML](https://github.com/cassas00/fundamentals)
 
-[CSS]()
+[CSS](https://github.com/cassas00/fundamentals)
 
-[JavaScript]()
+[JavaScript](https://github.com/cassas00/fundamentals)
 
 ### Package Managers
 
