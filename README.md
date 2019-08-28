@@ -175,3 +175,11 @@ Types of testing:
 [NativeScript]()
 
 ### [Web Assembly]()
+
+### Other
+
+Git, Github, Gitlab
+
+Photoshop
+
+Total Validator
