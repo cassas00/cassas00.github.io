@@ -4,7 +4,7 @@ A front for all my personal projects
 ## Front-end
  ### Fundamentals
 
-[HTML]()
+[HTML](https://github.com/cassas00/html-basics)
 
 [CSS]()
 
