@@ -64,7 +64,9 @@ A front for all my personal projects
 #### Module Bundlers
 
 [Webpack]()
+
 [Parcel]()
+
 [Rollup]()
 
 ### Frameworks
@@ -183,3 +185,7 @@ Git, Github, Gitlab
 Photoshop
 
 Total Validator
+
+Inkscape
+
+Browserstack
