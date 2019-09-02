@@ -4,188 +4,188 @@ A front for all my personal projects
 ## Front-end
 ### Fundamentals
 
-[HTML](https://github.com/cassas00/fundamentals)
+> [HTML](https://github.com/cassas00/fundamentals)
 
-[CSS](https://github.com/cassas00/fundamentals)
+> [CSS](https://github.com/cassas00/fundamentals)
 
-[JavaScript](https://github.com/cassas00/fundamentals)
+> [JavaScript](https://github.com/cassas00/fundamentals)
 
 ### Package Managers
 
-[npm]()
+> [npm]()
 
-[yarn]()
+> [yarn]()
 
 ### CSS Pre-Processors
 
-[SASS]()
+> [SASS]()
 
-[PostCss]()
+> [PostCss]()
 
-[Less]()
+> [Less]()
 
 ### CSS Frameworks
 
-[Bootstrap]()
+> [Bootstrap]()
 
-[Materialize CSS]()
+> [Materialize CSS]()
 
-[Bulma]()
+> [Bulma]()
 
-[Semantic UI]()
+> [Semantic UI]()
 
 ### CSS Architecture
 
-[BEM]()
+> [BEM]()
 
-[OOCSS]()
+> [OOCSS]()
 
-[SMACSS]()
+> [SMACSS]()
 
 ### Build Tools
 #### Task Runners
 
-[npm scripts]()
+> [npm scripts]()
 
-[gulp]()
+> [gulp]()
 
 #### Linters and Formatters
 
-[Prettier]()
+> [Prettier]()
 
-[ESLint]()
+> [ESLint]()
 
-[JSHint]()
+> [JSHint]()
 
-[JSLint]()
+> [JSLint]()
 
-[JSCS]()
+> [JSCS]()
 
 #### Module Bundlers
 
-[Webpack]()
+> [Webpack]()
 
-[Parcel]()
+> [Parcel]()
 
-[Rollup]()
+> [Rollup]()
 
 ### Frameworks
 
-[React.js](), [Redux]() and [MobX]()
+> [React.js](), [Redux]() and [MobX]()
 
-[Angular](), [RxJS]() and [ngrx]()
+> [Angular](), [RxJS]() and [ngrx]()
 
-[Vue.js]() and [Vuex]()
+> [Vue.js]() and [Vuex]()
 
 ### CSS in JS
 
-[Styled Components]()
+> [Styled Components]()
 
-[CSS Modules]()
+> [CSS Modules]()
 
-[Emotion]()
+> [Emotion]()
 
-[Radium]()
+> [Radium]()
 
-[Glamorous]()
+> [Glamorous]()
 
 ### Testing
 
-[Jest](), [Enzyme]() and [Cypress]()
+> [Jest](), [Enzyme]() and [Cypress]()
 
-Other:
+> Other:
 
-[Mocha]()
+>> [Mocha]()
 
-[Chai]()
+>> [Chai]()
 
-[Ava]()
+>> [Ava]()
 
-[Karma]()
+>> [Karma]()
 
-[Jasmine]()
+>> [Jasmine]()
 
-[Protractor]()
+>> [Protractor]()
 
-Types of testing:
+> Types of testing:
 
-[Unit]()
+>> [Unit]()
 
-[Integration]()
+>> [Integration]()
 
-[Functional]()
+>> [Functional]()
 
 ### Progressive Web Apps
 
 #### Web APIs
-[Storage]()
+> [Storage]()
 
-[Web Sockets]()
+> [Web Sockets]()
 
-[Location]()
+> [Location]()
 
-[Notifications]()
+> [Notifications]()
 
-[Device Orientation]()
+> [Device Orientation]()
 
-[Payments]()
+> [Payments]()
 
-[Credentials]()
+> [Credentials]()
 
 #### Calculating, Measuring and Improving Performance
 
-[PRPL Pattern]()
+> [PRPL Pattern]()
 
-[RAIL Model]()
+> [RAIL Model]()
 
-[Performance Metrics]()
+> [Performance Metrics]()
 
-[Using Light House]()
+> [Using Light House]()
 
-[Using DevTools]()
+> [Using DevTools]()
 
 ### Type Checkers
 
-[TypeScript]()
+> [TypeScript]()
 
-[Flow]()
+> [Flow]()
 
 ### Server Side Rendering
 
-[React.js](), [Next.js]() and [After.js]()
+> [React.js](), [Next.js]() and [After.js]()
 
-[Angular]() and [Universal]()
+> [Angular]() and [Universal]()
 
-[Vue.js]() and [Nuxt.js]()
+> [Vue.js]() and [Nuxt.js]()
 
 ### Static Site Generators
 
-[GatsbyJS]()
+> [GatsbyJS]()
 
 ### Desktop Applications
 
-[Electron]()
+> [Electron]()
 
-[Proton Native]()
+> [Proton Native]()
 
-[Carlo]()
+> [Carlo]()
 
 ### Mobile Applications
 
-[React Native]()
+> [React Native]()
 
-[NativeScript]()
+> [NativeScript]()
 
 ### [Web Assembly]()
 
 ### Other
 
-Git, Github, Gitlab
+> Git, Github, Gitlab
 
-Photoshop
+> Photoshop
 
-Total Validator
+> Total Validator
 
-Inkscape
+> Inkscape
 
-Browserstack
+> Browserstack
